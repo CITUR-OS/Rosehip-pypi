@@ -3,7 +3,7 @@ Reliable Operating System by Elisha Hollander Implemented Python
 ```diff
 - this only works on windows
 ```
-the source is [here](https://github.com/donno2048/Rosehip) there is also a [version for linux](https://github.com/donno2048/Rosehip-L), more specifically for ubuntu debian and mint.
+the source is [here](https://github.com/CITUR-OS/Rosehip) there is also a [version for linux](https://github.com/CITUR-OS/Rosehip-L), more specifically for ubuntu debian and mint.
 ## How to install it:
 
 open cmd, then:
@@ -16,7 +16,7 @@ open cmd, then:
 ```
 or you can install from GitHub:
 ```
-> pip install git+https://github.com/donno2048/Rosehip-pypi
+> pip install git+https://github.com/CITUR-OS/Rosehip-pypi
 ```
 ##### else:
 
@@ -70,9 +70,9 @@ If you're using a laptop replace 'pc' with 'laptop'
 
 ## For developers:
 
-if you want to use it as an .iso you can run [another code I wrote](https://github.com/donno2048/CITUR) but it's currently having some issues, as specified is the [README](https://github.com/donno2048/CITUR/blob/master/README.md)...
+if you want to use it as an .iso you can run [another code I wrote](https://github.com/CITUR-OS/CITUR) but it's currently having some issues, as specified is the [README](https://github.com/CITUR-OS/CITUR/blob/master/README.md)...
 
-or you can either use the [.iso builder](https://github.com/donno2048/CITUR-L) for the [linux version of Rosehip](https://github.com/donno2048/Rosehip-L)
+or you can either use the [.iso builder](https://github.com/CITUR-OS/CITUR-L) for the [linux version of Rosehip](https://github.com/CITUR-OS/Rosehip-L)
 
 ## For extreme developers:
 
